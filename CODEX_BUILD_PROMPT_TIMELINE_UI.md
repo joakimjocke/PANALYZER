@@ -13,7 +13,7 @@ Primary screen: a timeline view with event cards and a highlighted interval.
 
 ## 2) Inputs (what AI should use)
 
-- Reference image: `docs/reference/timeline-gotham.png`
+- Reference image: `PANALYZER_TIMELINE_UI_CONCEPT.png`
   (place the attached image here)
 - This brief (single source of requirements)
 
